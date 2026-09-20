@@ -168,10 +168,8 @@ The analysis demonstrates how **SQL and data analysis** can be used to explore l
 ## 🛠️ Tools Used
 
 * SQL
-* Excel
 * Power BI
 * Python
-* Tableau
 
 ---
 
